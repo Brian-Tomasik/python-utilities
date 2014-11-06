@@ -1,0 +1,190 @@
+Body-section line, originally:
+<h3 id="section1.2">See also:</h3>
+Changed to:
+<h3 id="See_also">See also:</h3>
+
+Body-section line, originally:
+<h2 id="section2">Table of contents</h2>
+Changed to:
+<h2 id="Table_of_contents">Table of contents</h2>
+
+Table-of-contents line, originally:
+	<li><a href="#section3">3. Introduction</a></li>
+Changed to:
+	<li><a href="#Introduction">Introduction</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section4">4. Numbers of Wild Animals</a></li>
+Changed to:
+	<li><a href="#Numbers_of_Wild_Animals">Numbers of Wild Animals</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5">5. How Wild Animals Suffer</a>
+Changed to:
+	<li><a href="#How_Wild_Animals_Suffer">How Wild Animals Suffer</a>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.1">5.1. Predation</a></li>
+Changed to:
+	<li><a href="#Predation">Predation</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.2">5.2. Death by Other Means</a></li>
+Changed to:
+	<li><a href="#Death_by_Other_Means">Death by Other Means</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.3">5.3. A Hard Life</a></li>
+Changed to:
+	<li><a href="#A_Hard_Life">A Hard Life</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.4">5.4. Short Lifespans</a></li>
+Changed to:
+	<li><a href="#Short_Lifespans">Short Lifespans</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.5">5.5. More Offspring Than Survive</a></li>
+Changed to:
+	<li><a href="#More_Offspring_Than_Survive">More Offspring Than Survive</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.6">5.6. When Do Babies Become Sentient?</a></li>
+Changed to:
+	<li><a href="#When_Do_Babies_Become_Sentient">When Do Babies Become Sentient?</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.7">5.7. Misjudging Levels of Well-Being?</a></li>
+Changed to:
+	<li><a href="#Misjudging_Levels_of_WellBeing">Misjudging Levels of Well-Being?</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section5.8">5.8. If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</a></li>
+Changed to:
+	<li><a href="#If_Life_in_Nature_is_so_Bad_Why_Dont_Wild_Animals_Kill_Themselves">If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section6">6. But Aren't Humans Helpless?</a>
+Changed to:
+	<li><a href="#But_Arent_Humans_Helpless">But Aren't Humans Helpless?</a>
+
+Table-of-contents line, originally:
+	<li><a href="#section6.1">6.1. Humans Already Impact Nature</a></li>
+Changed to:
+	<li><a href="#Humans_Already_Impact_Nature">Humans Already Impact Nature</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section6.2">6.2. A Research Agenda</a></li>
+Changed to:
+	<li><a href="#A_Research_Agenda">A Research Agenda</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section6.3">6.3. Advanced Technologies?</a></li>
+Changed to:
+	<li><a href="#Advanced_Technologies">Advanced Technologies?</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section6.4">6.4. Inadvertently Multiplying Suffering</a></li>
+Changed to:
+	<li><a href="#Inadvertently_Multiplying_Suffering">Inadvertently Multiplying Suffering</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section7">7. Activists Should Focus on Public Outreach</a></li>
+Changed to:
+	<li><a href="#Activists_Should_Focus_on_Public_Outreach">Activists Should Focus on Public Outreach</a></li>
+
+Table-of-contents line, originally:
+	<li><a href="#section8">8. References</a></li>
+Changed to:
+	<li><a href="#References">References</a></li>
+
+Body-section line, originally:
+<h2 id="section3">Introduction</h2>
+Changed to:
+<h2 id="Introduction">Introduction</h2>
+
+Body-section line, originally:
+<h2 id="section4">Numbers of Wild Animals</h2>
+Changed to:
+<h2 id="Numbers_of_Wild_Animals">Numbers of Wild Animals</h2>
+
+Body-section line, originally:
+<h2 id="section5">How Wild Animals Suffer</h2>
+Changed to:
+<h2 id="How_Wild_Animals_Suffer">How Wild Animals Suffer</h2>
+
+Body-section line, originally:
+<h3 id="section5.1">Predation</h3>
+Changed to:
+<h3 id="Predation">Predation</h3>
+
+Body-section line, originally:
+<h3 id="section5.2">Death by Other Means</h3>
+Changed to:
+<h3 id="Death_by_Other_Means">Death by Other Means</h3>
+
+Body-section line, originally:
+<h3 id="section5.3">A Hard Life</h3>
+Changed to:
+<h3 id="A_Hard_Life">A Hard Life</h3>
+
+Body-section line, originally:
+<h3 id="section5.4">Short Lifespans</h3>
+Changed to:
+<h3 id="Short_Lifespans">Short Lifespans</h3>
+
+Body-section line, originally:
+<h3 id="section5.5">More Offspring Than Survive</h3>
+Changed to:
+<h3 id="More_Offspring_Than_Survive">More Offspring Than Survive</h3>
+
+Body-section line, originally:
+<h3 id="section5.6">When Do Babies Become Sentient?</h3>
+Changed to:
+<h3 id="When_Do_Babies_Become_Sentient">When Do Babies Become Sentient?</h3>
+
+Body-section line, originally:
+<h3 id="section5.7">Misjudging Levels of Well-Being?</h3>
+Changed to:
+<h3 id="Misjudging_Levels_of_WellBeing">Misjudging Levels of Well-Being?</h3>
+
+Body-section line, originally:
+<h3 id="section5.8">If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</h3>
+Changed to:
+<h3 id="If_Life_in_Nature_is_so_Bad_Why_Dont_Wild_Animals_Kill_Themselves">If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</h3>
+
+Body-section line, originally:
+<h2 id="section6">But Aren't Humans Helpless?</h2>
+Changed to:
+<h2 id="But_Arent_Humans_Helpless">But Aren't Humans Helpless?</h2>
+
+Body-section line, originally:
+<h3 id="section6.1">Humans Already Impact Nature</h3>
+Changed to:
+<h3 id="Humans_Already_Impact_Nature">Humans Already Impact Nature</h3>
+
+Body-section line, originally:
+<h3 id="section6.2">A Research Agenda</h3>
+Changed to:
+<h3 id="A_Research_Agenda">A Research Agenda</h3>
+
+Body-section line, originally:
+<h3 id="section6.3">Advanced Technologies?</h3>
+Changed to:
+<h3 id="Advanced_Technologies">Advanced Technologies?</h3>
+
+Body-section line, originally:
+<h3 id="section6.4">Inadvertently Multiplying Suffering</h3>
+Changed to:
+<h3 id="Inadvertently_Multiplying_Suffering">Inadvertently Multiplying Suffering</h3>
+
+Body-section line, originally:
+<h2 id="section7">Activists Should Focus on Public Outreach</h2>
+Changed to:
+<h2 id="Activists_Should_Focus_on_Public_Outreach">Activists Should Focus on Public Outreach</h2>
+
+Body-section line, originally:
+<h2 id="section8">References</h2>
+Changed to:
+<h2 id="References">References</h2>
+

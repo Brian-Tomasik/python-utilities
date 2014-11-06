@@ -1,0 +1,403 @@
+<p class="summary">The number of wild animals <a href="http://www.utilitarian-essays.com/number-of-wild-animals.html">vastly exceeds</a> that of animals on factory farms, in laboratories, or kept as pets. Therefore, animal advocates should consider focusing their efforts to raise concern about the vast <a href="http://www.utilitarian-essays.com/seriousness-of-suffering.html#wild-animals">suffering that occurs in the natural environment</a>. While in theory this could involve trying directly to engineer more humane ecological systems, in practice I think activists should concentrate on promoting the meme of <a href="http://www.utilitarian-essays.com/caring-about-animal-suffering.html">caring about</a> wild animals to other activists, academics, and the general public. The massive amount of suffering occurring now in nature is indeed tragic, but it pales by comparison to the scale of good or harm that our descendants -- with advanced technological capability -- might effect. I fear, for instance, that future humans may undertake <a href="http://quest.nasa.gov/mars/background/terra.html">terraforming</a>, <a href="http://www.panspermia-society.com/Panspermia_Technical.htm">directed panspermia</a>, or sentient <a href="https://en.wikipedia.org/wiki/Artificial_life">simulations</a> without giving much thought to the consequences for wild animals. Our #1 priority should be to ensure that future human intelligence is used to prevent wild-animal suffering, rather than to multiply it.</p>
+
+<h3 id="section1.1"><a id="why-suffering-dominates" name="why-suffering-dominates"></a>Summary of why suffering probably dominates happiness</h3>
+<img style="line-height: 24px;" title="'A big bait ball swirling around a loose kelp stype.' Image by Bare Dreamer. (from https://en.wikipedia.org/wiki/File:A_tornado_of_fish.jpg) This file is licensed under the Creative Commons Attribution 2.0 Generic license." alt="" src="http://utilitarian-essays.com/A_tornado_of_fish.jpg" width="48%" height="48%" align="right" />
+
+I personally believe that most animals (except maybe those that live a long time, like &gt;3 years) probably have lives not worth living, because I would trade away several years of life to avoid the pain of the average death, and this is assuming that even their lives are net positive (which is dubious in view of cold, hunger, disease, fear of predators, and all the rest).
+
+However, this belief of mine is somewhat controversial. I think the claim of net expected suffering in nature needs only a weaker assertion: namely, that almost all of the expected happiness and suffering in nature come from small animals (e.g., minnows and insects). The adults of these species live at most a few years, often just a few months or weeks, so it's even harder in these cases for the happiness of life to outweigh the pain of death. Moreover, almost all the babies that these species have die (possibly painfully) after just a few hours or days of being born, because most of these species are <q>r-selected</q> -- see Type III in <a href="http://www.bio.miami.edu/tom/courses/bil160/bil160goods/16_survivorship.gif">this chart</a>. Of course, it's not certain that minnows/insects can feel pain at all, but <a href="http://www.utilitarian-essays.com/suffering-nature.html#BabiesSentient">they may be able to</a>. Even if the probability were, say, 0.1, they would still dominate everything else in expected value.
+<h3 id="section1.2">See also:</h3>
+<ul>
+	<li><a href="http://www.facebook.com/groups/suffering.in.nature/">Reducing wild-animal suffering</a> group on Facebook; feel free to join.</li>
+	<li><a href="http://www.animalcharityevaluators.org/research/foundational-research/wild-animal-suffering/">Wild animal suffering</a> on Animal Charity Evaluators.</li>
+	<li>A two-page summary <a href="http://www.utilitarian-essays.com/suffering-nature-pamphlet.pdf">pamphlet (pdf)</a> about wild-animal suffering (source files: <a href="http://www.utilitarian-essays.com/suffering-nature-pamphlet.pub">.pub</a>, <a href="http://www.utilitarian-essays.com/suffering-nature-pamphlet.txt">.txt</a>, <a href="http://www.utilitarian-essays.com/dead-fish.png">.png</a>, <a href="http://www.utilitarian-essays.com/dead-squirrel.png">.png</a>, <a href="http://www.utilitarian-essays.com/dead-mammal.png">.png</a>).</li>
+	<li>I have an earlier, slightly different version of this essay in pdf format: "<a href="http://utilitarian-essays.com/wild-animals.pdf">The Predominance of Wild-Animal Suffering over Happiness: An Open Problem</a>" (<a href="http://utilitarian-essays.com/wild-animals.tex">.tex</a>).</li>
+	<li>The folks at <a href="http://www.felicifia.com">Wiki Felicifia</a> have compiled an <a href="http://felicifia.com/index.php?title=Wild_Animals">excellent summary</a> of animals in the wild and what we can do to promote concern for their suffering.</li>
+	<li>Oscar Horta has <a href="http://masalladelaespecie.files.wordpress.com/2012/10/publications-wild-animal-suffering-intervention.pdf">a bibliography</a> of papers on wild-animal suffering.</li>
+	<li>There's a nice piece on <q><a href="http://www.socrethics.com/Folder2/Biology.htm">Utility and Pain in Biology</a></q> at <a href="http://www.socrethics.com/index.htm">Socrethics.com</a>.</li>
+</ul>
+
+<hr />
+
+<h2 id="section2">Table of contents</h2>
+<div id="toc">
+<ul>
+	<li><a href="#section3">3. Introduction</a></li>
+	<li><a href="#section4">4. Numbers of Wild Animals</a></li>
+	<li><a href="#section5">5. How Wild Animals Suffer</a>
+<ul>
+	<li><a href="#section5.1">5.1. Predation</a></li>
+	<li><a href="#section5.2">5.2. Death by Other Means</a></li>
+	<li><a href="#section5.3">5.3. A Hard Life</a></li>
+	<li><a href="#section5.4">5.4. Short Lifespans</a></li>
+	<li><a href="#section5.5">5.5. More Offspring Than Survive</a></li>
+	<li><a href="#section5.6">5.6. When Do Babies Become Sentient?</a></li>
+	<li><a href="#section5.7">5.7. Misjudging Levels of Well-Being?</a></li>
+	<li><a href="#section5.8">5.8. If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</a></li>
+</ul>
+</li>
+	<li><a href="#section6">6. But Aren't Humans Helpless?</a>
+<ul>
+	<li><a href="#section6.1">6.1. Humans Already Impact Nature</a></li>
+	<li><a href="#section6.2">6.2. A Research Agenda</a></li>
+	<li><a href="#section6.3">6.3. Advanced Technologies?</a></li>
+	<li><a href="#section6.4">6.4. Inadvertently Multiplying Suffering</a></li>
+</ul>
+</li>
+	<li><a href="#section7">7. Activists Should Focus on Public Outreach</a></li>
+	<li><a href="#section8">8. References</a></li>
+</ul>
+</div>
+<h2 id="section3">Introduction</h2>
+<blockquote><q>The total amount of suffering per year in the natural world is beyond all decent contemplation. During the minute it takes me to compose this sentence, thousands of animals are being eaten alive; others are running for their lives, whimpering with fear; others are being slowly devoured from within by rasping parasites; thousands of all kinds are dying of starvation, thirst and disease.</q>
+
+-- Richard Dawkins, <i>River Out of Eden</i><sup><a href="#Dawkins">[Dawkins, pp. 131-32]</a></sup></blockquote>
+<blockquote><q>Many humans look at nature from an aesthetic perspective and think in terms of biodiversity and the health of ecosystems, but forget that the animals that inhabit these ecosystems are individuals and have their own needs. Disease, starvation, predation, ostracism, and sexual frustration are endemic in so-called healthy ecosystems. The great taboo in the animal rights movement is that most suffering is due to natural causes.</q>
+
+-- Albert, a fictional dog in philosopher Nick Bostrom's "Golden"<sup><a href="#Bostrom-Alfred">[Bostrom-Alfred]</a></sup></blockquote>
+<blockquote><q>The moralistic fallacy is that what is good is found in nature. It lies behind the bad science in nature-documentary voiceovers: lions are mercy-killers of the weak and sick, mice feel no pain when cats eat them, dung beetles recycle dung to benefit the ecosystem and so on.</q>
+
+-- Steven Pinker<sup><a href="#Pinker">[Pinker]</a></sup></blockquote>
+<blockquote><q>People who accuse us of putting in too much violence, [should see] what we leave on the cutting-room floor.</q>
+
+-- David Attenborough, speaking about his nature documentaries<sup><a href="#Attenborough">[Attenborough]</a></sup></blockquote>
+<blockquote><q>In sober truth, nearly all the things which men are hanged or imprisoned for doing to one another, are nature's every day performances. [..] The phrases which ascribe perfection to the course of nature can only be considered as the exaggerations of poetic or devotional feeling, not intended to stand the test of a sober examination. No one, either religious or irreligious, believes that the hurtful agencies of nature, considered as a whole, promote good purposes, in any other way than by inciting human rational creatures to rise up and struggle against them.</q>
+
+-- John Stuart Mill, <q>On Nature</q><sup><a href="#Mill">[Mill]</a></sup></blockquote>
+Animal activists typically focus their efforts on areas where humans directly interact with members of other species, such as on <q>factory farms,</q> in laboratory experiments, and, to a much lesser degree, in zoos, circuses, rodeos, and the like.
+
+<img title="'Visão do Alto, da janela do avião, o Rio Solimões, parecendo uma cobra grande, como é chamado pelos indígenas. Rio Solimóes - Amazonia - Floresta Amazonica - Brasil.' Image by lubasi. (from https://en.wikipedia.org/wiki/File:Aerial_view_of_the_Amazon_Rainforest.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license." alt="" src="http://utilitarian-essays.com/Aerial_view_of_the_Amazon_Rainforest.jpg" width="40%" height="40%" align="left" />
+
+Rarely discussed is the topic of animal suffering in the wild, even in the academic literature, though there have been notable exceptions.<sup><a href="#exceptions">[exceptions]</a></sup> In this piece, I emphasize that the numbers of animals on which humans have an impact is simply too large for animal advocates to ignore. Intense suffering is a regular feature of life in the wild that demands, perhaps not quick-fix intervention, but at least long-term research into the welfare of wild animals and technologies that might one day allow humans to improve it. I conclude by encouraging animal advocates to focus their efforts to promote concern about wild-animal suffering among other activists, academics, and the general public -- both to encourage research on the issue and to ensure that our descendants use their advanced technologies in ways that alleviate wild-animal suffering rather than inadvertently multiply it.
+<h2 id="section4">Numbers of Wild Animals</h2>
+The scale of animal suffering at human hands is vast, and animal advocates are right to be appalled by its magnitude. However, the numbers of animals that live in the wild is staggeringly larger. The following table of very rough population estimates is copied from Brian Tomasik's <q>How Many Wild Animals Are There?</q><sup><a href="#Tomasik-numbers">[Tomasik-numbers]</a></sup>
+
+&nbsp;
+<table border="1">
+<tbody>
+<tr>
+<td><b>Animal Type</b></td>
+<td><b>World Population</b></td>
+</tr>
+<tr>
+<td>Animals in Research Labs</td>
+<td>10<sup>8</sup></td>
+</tr>
+<tr>
+<td>Humans</td>
+<td>7 * 10<sup>9</sup></td>
+</tr>
+<tr>
+<td>Livestock</td>
+<td>2.4 * 10<sup>10</sup></td>
+</tr>
+<tr>
+<td>Land Birds</td>
+<td>6 * 10<sup>10</sup> to 4 * 10<sup>11</sup></td>
+</tr>
+<tr>
+<td>Land Mammals</td>
+<td>10<sup>11</sup> to 10<sup>12</sup></td>
+</tr>
+<tr>
+<td>Land Reptiles</td>
+<td>10<sup>12</sup> to 10<sup>13</sup> (?)</td>
+</tr>
+<tr>
+<td>Land Amphibians</td>
+<td>10<sup>12</sup> to 10<sup>13</sup> (?)</td>
+</tr>
+<tr>
+<td>Fish</td>
+<td>at least 10<sup>13</sup></td>
+</tr>
+<tr>
+<td>Insects</td>
+<td>10<sup>18</sup> to 10<sup>19</sup></td>
+</tr>
+<tr>
+<td>Zooplankton</td>
+<td>10<sup>18</sup> to 10<sup>21</sup></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+The agony endured by, say, a frog while being eaten alive by a snake is probably at least as great as anything that a battery-cage hen or factory-farmed turkey experiences, as terrible as their treatment often is.
+<h2 id="section5">How Wild Animals Suffer</h2>
+Like those on farms, in laboratories, and kept as pets, animals in the wild have rich emotional lives.<sup><a href="#emotions">[emotions]</a></sup> Unfortunately, many of these emotions are intensely painful, often needlessly so. And while <q>nature red, tooth and claw</q> is widely known as a platitude, its visceral meaning can often be overlooked. Below I review some details of wild-animal suffering, perhaps in a manner similar to the way in which animal advocates decry acts of cruelty by humans.
+<h3 id="section5.1">Predation</h3>
+When people imagine suffering in nature, perhaps the first image that comes to mind is that of a lioness hunting its prey. Christopher McGowan, for instance, vividly describes the death of a zebra:
+<blockquote>The lioness sinks her scimitar talons into the zebra's rump. They rip through the tough hide and anchor deep into the muscle. The startled animal lets out a loud bellow as its body hits the ground. An instant later the lioness releases her claws from its buttocks and sinks her teeth into the zebra's throat, choking off the sound of terror. Her canine teeth are long and sharp, but an animal as large as a zebra has a massive neck, with a thick layer of muscle beneath the skin, so although the teeth puncture the hide they are too short to reach any major blood vessels. She must therefore kill the zebra by asphyxiation, clamping her powerful jaws around its trachea (windpipe), cutting off the air to its lungs. It is a slow death. If this had been a small animal, say a Thomson's gazelle (<i>Gazella thomsoni</i>) the size of a large dog, she would have bitten it through the nape of the neck; her canine teeth would then have probably crushed the vertebrae or the base of the skull, causing instant death. As it is, the zebra's death throes will last five or six minutes.<sup><a href="#McGowan">[McGowan, pp. 12-13]</a></sup></blockquote>
+<img title="'Leopard (Panthera pardus) killing a young Bushbuck (Tragelaphus sylvaticus) in the Kruger National Park.' Image by NJR ZA. (from https://en.wikipedia.org/wiki/File:Leopard_kill_-_KNP_-_001.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license." alt="" src="http://utilitarian-essays.com/Leopard_kill_-_KNP_-_001.jpg" width="50%" height="50%" align="right" />
+
+Some predators kill their victims rather quickly, such as constrictor snakes that cut off their victims' air flow and induce unconsciousness within a minute or two,<sup><a href="#eaten-alive">[eaten-alive]</a></sup> while others impose a more protracted death, such as hyenas that tear off chunks of ungulate flesh one bite at a time.<sup><a href="#Kruuk">[Kruuk]</a></sup> Wild dogs disembowel their prey,<sup><a href="#McGowan">[McGowan, p. 22]</a></sup> venomous snakes cause internal bleeding and paralysis over the course of several minutes,<sup><a href="#McGowan">[McGowan, pp. 49]</a></sup> and crocodiles drown large animals in their jaws.<sup><a href="#McGowan">[McGowan, pp. 43]</a></sup>
+
+One snake-owner's guide explains, <q>Live mice will fight for their lives when they are seized, and will bite, kick and scratch for as long as they can.</q><sup><a href="#Flank">[Flank]</a></sup> Once captured, <q>The snake drenches the prey with saliva and eventually pulls it into the esophagus. From there, it uses its muscles to simultaneously crush the food and push it deeper into the digestive tract, where it is broken down for nutrients.</q><sup><a href="#Perry">[Perry]</a></sup>
+
+Prey may not die immediately after being swallowed, as is illustrated by the fact that some poisonous newts, after ingestion by a snake, excrete toxins to kill their captor so that they can crawl back out of its mouth.<sup><a href="#McGowan">[McGowan, pp. 59]</a></sup> And regarding housecats, Bob Sallinger of the Audubon Society of Portland remarked, <q>People who are appalled by the indiscriminate killing of wildlife by mechanisms such as leg-hold traps should recognize that the pain and suffering caused by cat predation is not dissimilar and the impacts of cat predation dwarf the impacts of trapping.</q><sup><a href="#Sallinger">[Sallinger]</a></sup>
+
+<a id="ptsd" name="ptsd"></a>
+
+Fear of predators produces not only immediate distress, but it may also cause long-term psychological trauma. In one study of anxiolytics, researchers exposed mice to a cat for five minutes and observed subsequent reactions. They found <q>that this animal model of exposure of mice to unavoidable predatory stimuli produces early cognitive changes analogous to those seen in patients with acute stress disorder (ASD).</q><sup><a href="#ElHagePeronnyGriebelBelzung">[ElHagePeronnyGriebelBelzung]</a></sup> A follow-up study found long-term impacts on the mice's brains: <q>predatory exposure induced significant learning disabilities in the radial maze (16 to 22 days poststressor) and in the spatial configuration of objects recognition test (26 to 28 days poststressor). These findings indicate that memory impairments may persist for extended periods beyond a predatory stress.</q><sup><a href="#ElHageGriebelBelzung">[ElHageGriebelBelzung]</a></sup> Similarly, Phillip R. Zoladz exposed rats to unavoidable predators and other anxiety-causing conditions to <q>produce changes in rat physiology and behavior that are comparable to the symptoms observed in PTSD patients.</q><sup><a href="#Zoladz">[Zoladz]</a></sup> And in a review article, Rianne Stam explained:
+<blockquote>Animal models that are characterised by long-lasting conditioned fear responses as well as generalised behavioural sensitisation to novel stimuli following short-lasting but intense stress have a phenomenology that resembles that of PTSD in humans. [...] Weeks to months after the trauma, treated animals on average also show a sensitisation to novel stressful stimuli of neuroendocrine, cardiovascular and gastrointestinal motility responses as well as altered pain sensitivity and immune function.<sup><a href="#Stam">[Stam]</a></sup></blockquote>
+Even for those prey that haven't had a traumatic run-in with a predator, the <q>ecology of fear</q> that predators create can be very distressing: <q>In studies with elk, scientists have found that the presence of wolves alters their behavior almost constantly, as they try to avoid encounters, leave room for escape and are constantly vigilant.</q><sup><a href="#Stauth">[Stauth]</a></sup>
+
+One can make some argument that evolution should avoid making animal lives excessively horrifying for extended periods prior to death because doing so might, at least in more complex species, induce PTSD, depression, or other debilitating side-effects. Of course, we see empirically that evolution <i>does</i> induce such disorders when traumatic incidents happen, like exposure to a predator. But there's probably some kind of reasonable bound on how bad these can be most of the time in order to maintain functional animals. Death itself is a different matter because, once it reaches the point of inevitability, evolutionary pressures don't constrain the emotional experience. It can be as good as painless (for a few lucky animals) or as bad as torture (for many others). Evolution has no reason to prevent death from feeling unbearably awful.
+<h3 id="section5.2">Death by Other Means</h3>
+Of course, predation is not the only way in which organisms die painfully, and indeed, it may often be preferable to other mechanisms.
+
+<img title="'A European Rabbit afflicted by Myxomatosis in West Yorkshire, England.' Image by Richard Harvey. (from https://en.wikipedia.org/wiki/File:Rabbit_with_Myxomatosis_1(RLH).jpg) This file is licensed under the Creative Commons Attribution 3.0 Unported license." alt="" src="http://utilitarian-essays.com/Rabbit_with_Myxomatosis_1(RLH).jpg" width="50%" height="50%" align="right" />
+
+Animals are also stricken by diseases and parasites, which may induce listlessness, shivering, ulcers, pneumonia, starvation, violent behavior, or other gruesome symptoms over the course of days or weeks leading up to death. Avian salmonellosis is just one example:
+<blockquote>Signs range from sudden death to gradual onset of depression over 1 to 3 days, accompanied by huddling of the birds, fluffed-up feathers, unsteadiness, shivering, loss of appetite, markedly increased or absence of thirst, rapid loss of weight, accelerated respiration and watery yellow, green or blood-tinged droppings. The vent feathers become matted with excreta, the eyes begin to close and, immediately before death, some birds show apparent blindness, incoordination, staggering, tremors, convulsions or other nervous signs.<sup><a href="#Salmonellosis">[Salmonellosis]</a></sup></blockquote>
+Still other animals die of starvation due to accidents, dehydration during a summer drought, or lack of food during the winter. For instance, 2006 was also a harsh year on bats in Placerville, California:
+<blockquote><q>You can see their ribs, their backbones, and (the area) where the intestine and the stomach are is completely sunk through to the back,</q> said Dharma Webber, founder of the California Native Bat Conservancy. [...] She said emerging mosquitoes aren't enough to feed the creatures. <q>It would be like us eating a little piece of popcorn here or there,</q> she said.<sup><a href="#bats">[bats]</a></sup></blockquote>
+(Of course, when the bats do have food, this isn't good news for their prey....)
+
+Even ice storms can be fatal: <q>Birds unable to find a sheltered perch during the storm may have their feet frozen to a branch or their wings covered in ice making them unable to fly. Grouse buried in snow drifts are often encased by the ice layer and suffocate.</q><sup><a href="#Heidorn">[Heidorn]</a></sup>
+<h3 id="section5.3">A Hard Life</h3>
+While death may often constitute the peak of suffering during an animal's life, day-to-day existence isn't necessarily pleasant either. Unlike most humans in the industrialized world, wild animals don't have immediate access to food whenever they become hungry. They must constantly seek out water and shelter while remaining on the look-out for predators. Unlike us, most animals can't go inside when it rains or turn on the heat when winter temperatures drop far below their usual levels. In summary:
+<blockquote>It is often assumed that wild animals live in a kind of natural paradise and that it is only the appearance and intervention of human agencies that bring about suffering. This essentially Rousseauian view is at odds with the wealth of information derived from field studies of animal populations. Scarcity of food and water, predation, disease and intraspecific aggression are some of the factors which have been identified as normal parts of a wild environment which cause suffering in wild animals on a regular basis.<sup><a href="#UCLA">[UCLA, p. 24]</a></sup></blockquote>
+<img title="'Somaliland. A kilometre outside Waridaad village, carcasses of dead sheep and goats stretch across the landscape.' Image by Oxfam East Africa. (from https://en.wikipedia.org/wiki/File:2011_Horn_of_Africa_famine_Oxfam_01.jpg) This file is licensed under the Creative Commons Attribution 2.0 Generic license." alt="" src="http://utilitarian-essays.com/2011_Horn_of_Africa_famine_Oxfam_01.jpg" width="60%" height="60%" align="left" />
+
+And while many animals appear to endure such conditions rather calmly, this doesn't necessarily mean they aren't suffering.<sup><a href="#BourneEtAl">[BourneEtAl]</a></sup> Sick and injured members of a prey species are the easiest to catch, so predators have evolved such that they deliberately target these individuals. As a consequence, those prey that appear sick or injured will be the ones killed most often. Thus, evolutionary pressure pushes prey species to avoid drawing attention to their suffering and to pretend as though nothing is wrong.<sup><a href="#Nuffield">[Nuffield, ch. 4.12, p. 66]</a></sup>
+
+Based on studies of stress-hormone levels in domestic and wild animals, Christie Wilcox<sup><a href="#Wilcox">[Wilcox]</a></sup> concluded that <q>if we follow the guidelines of care that provide food, water, comfort, and necessary items for behavioral expression, domesticated animals are not only likely to be as happy as their wild relatives, they're probably happier.</q> She also observed:
+<blockquote>So the real question becomes whether a domesticated or captive animal is more, less, or as happy in the moment as its wild counterpart. There are a few key conditions that are classically thought to lead to a "happy" animal by reducing undue stress. These are the basis for most animal cruelty regulations, including those in the US and UK. They include that animals have the 'rights' to:
+
+- Enough food and water
+
+- Comfortable conditions (temperature, etc)
+
+- Expression of normal behavior
+
+When it comes to wild animals, though, only the last is guaranteed. They have to struggle to survive on a daily basis, from finding food and water to another individual to mate with. They don't have the right to comfort, stability, or good health. [...] By the standards our governments have set, the life of a wild animal is cruelty.</blockquote>
+<h3 id="section5.4">Short Lifespans</h3>
+As is so often the case in nature, the most populous animals are probably the ones that are generally worst off. Small mammals and birds have adult lifespans at most one or three years before they face a painful death. And many insects count their time on earth in weeks rather than years -- for instance, just 2-4 weeks for the horn fly.<sup><a href="#Cumming">[Cumming]</a></sup> I personally would prefer not to exist than to find myself born as an insect, struggle to navigate the world for a few weeks, and then die of dehydration or be caught in a spider's web. Worse still might be finding myself entangled in an Amazonian-ant <q>torture rack</q> trap for 12 hours,<sup><a href="#BBC">[BBC]</a></sup> or a caterpillar being eaten alive over the course of weeks or months by an Ichneumon wasp.<sup><a href="#Gould">[Gould, pp. 32-44]</a></sup>
+
+It's true that scientists remain uncertain whether insects experience pain in a form that we would consider conscious suffering.<sup><a href="#insect-pain">[insect-pain]</a></sup> However, the fact that there remains serious debate on the issue suggests that we should not rule out the possibility. And seeing as arthropods number 10<sup>18</sup>,<sup><a href="#Williams">[Williams]</a></sup> with the number of copepods in the ocean of a similar magnitude,<sup><a href="#SchubelButman">[SchubelButman]</a></sup> the mathematical <q>expected value</q> (probability times amount) of their suffering is vast. I should note that the force of this point would be lessened if, as may be the case, an animal's <q>intensity</q> or <q>degree</q> of emotional experience depends to some rough extent on the amount of neural tissue it has devoted to pain signals.<sup><a href="#Bostrom-qualia">[Bostrom-qualia]</a></sup>
+<h3 id="section5.5">More Offspring Than Survive</h3>
+Tables of animal lifespans typically show durations of survival by <i>adult</i> members of a species. However, <a href="https://en.wikipedia.org/wiki/Survivorship_curve">most individuals die much sooner</a>, before reaching maturity. This is a simple consequence of the fact that females give birth to far more offspring than can survive to maturity in a stable population. For instance, while humans can produce only one child per reproductive season (excepting twins), the number is 1-22 offspring for dogs (<i>Canis familiaris</i>), 4-6 eggs for the starling (<i>Sturmus vulgaris</i>), 6,000-20,000 eggs for the bullfrog (<i>Rana catesbeiana</i>), and 2 million eggs for the scallop (<i>Argopecten irradians</i>).<sup><a href="#SolbrigSolbrig">[SolbrigSolbrig, p. 37]</a></sup> Take a look at <a href="http://www.bio.miami.edu/tom/courses/bil160/bil160goods/16_survivorship.gif">this figure</a> from Thomas J. Herbert's article<sup><a href="#Herbert">[Herbert]</a></sup> on r and K selection illustrating extremely high infant mortality for <q>r strategists.</q> Most small animals like minnows and insects are r strategists.
+
+<img title="'Frog eggs/tadpoles with fly.' Image by Geoff Gallice from Gainesville, FL, USA. (from https://simple.wikipedia.org/wiki/File:Frog_eggs.jpg) This file is licensed under the Creative Commons Attribution 2.0 Generic license." alt="" src="http://utilitarian-essays.com/Frog_eggs.jpg" width="40%" height="40%" align="right" />
+
+Granted, it's unclear whether all of these species are sentient -- and even more regarding that fraction of the eggs that fails to hatch (see the next section) -- but again, in expected-value terms, the amount of expected suffering is enormous.
+
+This strategy of <q>making lots of copies and hoping a few come out</q> may be perfectly sensible from the standpoint of evolution,<sup><a href="#Dawkins">[Dawkins]</a></sup> but the cost to the individual organisms is tremendous. Matthew Clarke and Yew-Kwang Ng conclude from an analysis of the welfare implications of population dynamics that <q>The number of offspring of a species that maximizes fitness may lead to suffering and is different from the number that maximizes welfare (average or total).</q><sup><a href="#Clarke">[Clarke, sec. 4]</a></sup> And in a related paper, <q>Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering,</q> Ng concludes from the excess of offspring over adult survivors: <q>Under the assumptions of concave and symmetrical functions relating costs to enjoyment and suffering, evolutionary economizing results in the excess of total suffering over total enjoyment.</q><sup><a href="#Ng">[Ng, p. 272]</a></sup>
+
+In his famous paper, <q>Animal liberation and environmental ethics: Bad marriage, quick divorce,</q><sup><a href="#Sagoff">[Sagoff]</a></sup> Mark Sagoff quotes the following passage from Fred Hapgood:<sup><a href="#Hapgood">[Hapgood]</a></sup>
+<blockquote>All species reproduce in excess, way past the carrying capacity of their niche. In her lifetime a lioness might have 20 cubs; a pigeon, 150 chicks; a mouse, 1000 kits; a trout, 20,000 fry, a tuna or cod, a million fry or more; [...] and an oyster, perhaps a hundred million spat. If one assumes that the population of each of these species is, from generation to generation, roughly equal, then on average only one offspring will survive to replace each parent. All the other thousands and millions will die, one way or another.</blockquote>
+Sagoff goes on to say: <q>The misery of animals in nature--which humans can do much to relieve--makes every other form of suffering pale in comparison. Mother Nature is so cruel to her children she makes Frank Perdue look like a saint.</q>
+<h3 id="section5.6">When Do Babies Become Sentient?</h3>
+The previous section explained that in <a href="http://en.wikipedia.org/wiki/R/K_selection_theory">r-selected species</a>, parents may have hundreds or even tens of thousands of offspring, and almost all of these die shortly after birth.
+
+<img title="'Egg tooth, Trachemys scripta elegans.' Image by Christina Nicholson. (from https://en.wikipedia.org/wiki/File:Egg-tooth2.jpg) This work has been released into the public domain by its author, Christina6593 at the wikipedia project. This applies worldwide." alt="" src="http://utilitarian-essays.com/Egg-tooth2.jpg" width="25%" height="25%" align="left" />
+
+But <a href="http://felicifia.org/viewtopic.php?p=4749">some questions remain</a>. What fraction of these offspring were sentient at the time of death, and what fraction merely died as unconscious eggs or larvae?
+
+EFSA's <q>Aspects of the biology and welfare of animals used for experimental and other scientific purposes</q> (pp. 37-42) explores when fetuses of various species begin to feel conscious pain.<sup><a href="#EFSA">[EFSA]</a></sup> The paper notes that the age of onset of consciousness varies based on whether a species is precocial (well developed at birth, such as horses) or altricial (still developing at birth, such as marsupials). Precocial animals are more likely to feel pain at earlier ages. Also relevant is whether the species is viviparous (having live birth) or oviparous (giving birth through eggs). Viviparous animals have greater need to inhibit fetal consciousness during development in order to prevent injury to the mother and siblings. Oviparous fetuses that are constrained by shells have less need for inhibition of awareness before birth. (p. 38)
+
+For this reason, the report suggests: <q>If awareness is the criterion for protection, birds, reptiles, amphibians, fish and cephalopods may, therefore, be more obviously in need of protection pre-hatching than mammals are in need of protection pre-partum.</q> (p. 38) For example: <q>Sensory and neural development in a precocial bird such as the domestic chick is very well advanced several days before hatching. Controlled movements and coordinated behavioural and electrophysiological evoked responses to tactile, auditory and visual stimuli appear three or four days before hatching occurs after 21 days of incubation (Broom, 1981).</q> (p. 39) In contrast: <q>Even though the mammalian fetus can show physical responses to external stimuli,
+the weight of present evidence suggests that consciousness does not occur in the fetus until it is delivered and starts to breathe air.</q> (p. 42)
+
+Thus, it seems clear that many animals are able to suffer by the time of birth if not before.
+<blockquote>The stage of development at which this risk [of suffering] is sufficient for protection to be necessary is that at which the normal locomotion and sensory functioning of an individual independent of the egg or mother can occur. For air-breathing animals this time will not generally be later than that at which the fetus could survive unassisted outside the uterus or egg. For most vertebrate animals, the stage of development at which there is a risk of poor welfare when a procedure is carried out on them is the beginning of the last third of development within the egg or mother. For a fish, amphibian, cephalopod, or decapod it is when it is capable of feeding independently rather than being dependent on the food supply from the egg. [...] (p. 3)
+
+Most amphibians and fish have larval forms which are not well developed at hatching but develop rapidly with experience of independent life[.] Those fish and amphibians that are well developed at hatching or viviparous birth and all cephalopods, since these are small but well developed at hatching, will have had a functioning nervous system and the potential for awareness for some time before hatching. (p. 38)</blockquote>
+Another consideration suggestive of pain before birth is the fact that many oviparous vertebrates can hatch early in response to environmental stimuli, including vibrations that feel like a predator.
+
+<img title="'Some emerging stink (or shield) bug nymphs.' Image by MedievalRich at en.wikipedia. (from https://en.wikipedia.org/wiki/File:Stink-bugs-hatching.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license." alt="" src="http://utilitarian-essays.com/Stink-bugs-hatching.jpg" width="50%" height="50%" align="right" />
+
+For example, for skink eggs: <q>Simulated predation experiments in the field induced hatching in both nest sites (horizontal rock crevices) and in eggs displaced from nest sites. The hatching process was explosive: early hatching embryos hatched in seconds and sprinted from the egg an average of 40 cm as they hatched.</q><sup><a href="#DoodyPaull">[DoodyPaull]</a></sup> Early hatching has also been documented for amphibians, fish, and invertebrates.<sup><a href="#DoodyPaull">[DoodyPaull]</a></sup>
+
+These points suggest that a significant fraction of the large numbers of offspring born to r-selected species may very well be conscious during the pain of their deaths after a few short days, or even hours, of life.
+<h3 id="section5.7">Misjudging Levels of Well-Being?</h3>
+There is a danger in extrapolating the welfare of wild animals from our own imagination of how we would feel in the situation. We can imagine immense discomfort were we to sleep through a cold winter night's storm with only a sweatshirt to keep us warm, but many animals have better fur coats and can often find some sort of shelter. More generally, it seems unlikely that species would gain an adaptive advantage by feeling <i>constant</i> hardship, since stress does entail a metabolic cost.<sup><a href="#Ng">[Ng]</a></sup> (Of course, once animals surpass the age of reproduction, arguments about why evolution might tend to avoid causing traumatically unbearable amounts of pain no longer apply.<sup><a href="#Dawkins">[Dawkins, p. 131]</a></sup>)
+
+That said, we should also be wary of <i>underestimating</i> the extent and severity of wild-animal suffering due to our own biases. You, the reader, are probably sitting in the comfort of a climate-controlled building, with a relatively full stomach, and without fear of attack. Most of us in the industrialized West go through life in a relatively euthymic state, and it's easy to assume that the general pleasantness with which life greets us is shared by most other people and animals. When we think about nature, we may picture chirping songbirds or frolicking gazelles, rather than <a href="http://www.youtube.com/watch?v=aQ1vbKm7BnE">deer having their flesh chewed off while conscious</a> or <a href="http://www.michigan.gov/dnr/0,1607,7-153-10370_12150_12220-27261--,00.html">immobilized raccoons afflicted by roundworms</a>, waiting pleadingly for death to come. And of course, all of the previous examples, insofar as they involve large land animals, reflect my human tendency toward the <q>availability heuristic</q>: In fact, the most prevalent wild animals of all are small organisms, many ocean-dwelling. When we think <q>wild animals,</q> we should (if we adopt the expected-value approach to uncertainty about sentience) picture ants, copepods, and tiny fish, rather than lions or gazelles.
+
+People may not accurately assess at a single instant how they'll feel overall over a longer period of time.<sup><a href="#KahnemanSugden">[KahnemanSugden]</a></sup> They often exhibit <q>rosy prospection</q> toward future events and <q>rosy retrospection</q> about the past, in which they assume that their future and previous levels of wellbeing will be and were better than what they reported at the time of the experiences.<sup><a href="#MitchellThompson">[MitchellThompson]</a></sup> Moreover, even when organisms do correctly judge their hedonic levels, they often show a <q>will to live</q> quite apart from their level of pleasure or pain. Animals that, in the face of lives genuinely not worth living, decide to end their existence tend not to reproduce very successfully.
+
+In the end, though, regardless of exactly how good or bad we assess life in the wild to be on balance, it remains undeniable that many animals in nature endure some dreadful experiences.
+<h3 id="section5.8">If Life in Nature is so Bad, Why Don't Wild Animals Kill Themselves?</h3>
+<ol>
+	<li><i>Don't understand suicide</i>It may be that most animals (except the smartest mammals and birds?), while conscious emotionally, don't understand death. As an analogy, when I have a nightmare, I feel bad, but I don't fully realize I'm dreaming and am not sufficiently in control of the situation that I can end the nightmare at will. I guess non-dreaming animals do have more control over their physical state than I do when asleep, but the point is that you can have emotions without understanding life and death.</li>
+	<li><i>Little to be gained when most suffering comes from death anyway</i>Animals don't have painless ways to kill themselves. For many animals, I think most of the total pain of their lives comes from dying. For example, most of the 1000 offspring of a beetle mother will die within a day or three of hatching. I think their lives up to the point of death might hover around being neutral between pain and happiness, so there's not much to be gained by early suicide.</li>
+	<li><i>Temporal discounting</i>Animals often don't do what's in their long-term hedonic interest, so even if suicide were optimal, they might not do it. (For example, when very nauseous, it may feel better to vomit immediately than to endure nausea for two hours going forward, but I can never muster up the courage to vomit.)</li>
+	<li><i>Non-hedonic "will to live"</i>I think animals have a "will to live" that's partly separate from their hedonic well-being. Animal behaviors are integrations of huge numbers of signals and brain systems, so it's not surprising that some of these systems act contrary to the hedonic-welfare-maximization systems. Animals where this wasn't the case presumably didn't survive as effectively.</li>
+	<li><i>Few suicides on factory farms</i>If animals do kill themselves when their lives are not worth living, why don't we see more suicides on factory farms? Presumably at least battery-cage hens would be better off killing themselves.</li>
+	<li><i>Big animals may have decent lives</i>I think the animals that potentially could contemplate suicide (chimpanzees?) likely do have lives worth living a good amount of the time.</li>
+</ol>
+<h2 id="section6">But Aren't Humans Helpless?</h2>
+Why, then, is the suffering of wild animals not a top priority for animal advocates?
+
+<img title="'Grant's gazelles in Tsavo East, Kenya.' Image by Donald Macauley. (from https://en.wikipedia.org/wiki/File:Grant%27s_gazelles_in_Kenya,_Don_Macauley.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 2.0 Generic license." alt="" src="http://utilitarian-essays.com/Grant_gazelles_in_Kenya,_Don_Macauley.jpg" width="35%" height="35%" align="left" />
+
+One reason is philosophical: Some feel that while humans have duties to treat well the animals that they use or live with, they have no responsibility to those outside their sphere of interaction. I find this unsatisfying; if we really care about animals because we don't want fellow organisms to suffer brutally -- not just because we want to <q>keep our moral house clean</q> -- then it shouldn't matter whether we have a personal connection with wild animals or not.
+
+Other philosophers agree with this but continue to defend human inaction by claiming that people are ultimately helpless to change the situation. When asked whether we should prevent lions from eating gazelles, Peter Singer replied:
+<blockquote>[...] for practical purposes I am fairly sure, judging from man's past record of attempts to mold nature to his own aims, that we would be more likely to increase the net amount of animal suffering if we interfered with wildlife, than to decrease it. Lions play a role in the ecology of their habitat, and we cannot be sure what the long-term consequences would be if we were to prevent them from killing gazelles. [...] So, in practice, I would definitely say that wildlife should be left alone.<sup><a href="#Singer">[Singer]</a></sup></blockquote>
+Jennifer Everett similarly suggested that consequentialists may endorse evolutionary selection because it eliminates deleterious genetic traits:
+<blockquote>[...] if propagation of the <q>fittest</q> genes contributes to the integrity of both predator and prey species, which is good for the predator/prey balance in the ecosystem, which in turn is good for the organisms living in it, and so on, then the very ecological relationships that holistic environmentalists regard as intrinsically valuable will be valued by animal welfarists because they conduce ultimately, albeit indirectly and via complex causal chains, to the well-being of individual animals.<sup><a href="#Everett">[Everett, p. 48]</a></sup></blockquote>
+These are valid points; it probably is true, for instance, that animal advocates should not spend their resources promoting elimination of predators from healthy ecosystems. However, it does not follow that humans have no obligations regarding wild animals or that animal supporters should remain silent about nature's cruelty.
+<h3 id="section6.1">Humans Already Impact Nature</h3>
+I agree that we should be extremely cautious about quick-fix intervention. Ecology is extremely complicated, and humans have a long track record of underestimating the number of unanticipated consequences they will encounter in trying to engineer improvements to nature. On the other hand, there are many instances in which we are <i>already</i> interfering with wildlife in some manner. As Tyler Cowen observed:<sup><a href="#Cowen">[Cowen, p. 10]</a></sup>
+<blockquote>In other cases we are interfering with nature, whether we like it or not. It is not a question of uncertainty holding us back from policing, but rather how to compare one form of policing to another. Humans change water levels, fertilize particular soils, influence climatic conditions, and do many other things that affect the balance of power in nature. These human activities will not go away any time soon, but in the meantime we need to evaluate their effects on carnivores and their victims.</blockquote>
+One such evaluation was actually carried out regarding an Australian government decision to cull overpopulated and starving kangaroos at an Australian Defense Force army base.<sup><a href="#Clarke">[Clarke]</a></sup> While admittedly crude and academic, the analysis proves that the tools of welfare economics <i>can</i> be combined with the principles of population ecology to reach nontrivial conclusions about how human interference with wildlife affects aggregate animal well-being.
+
+<img title="'Rio Rancho, New Mexico in 2009.' Image by Bradly Salazar. (from https://commons.wikimedia.org/wiki/File:Rio_Rancho_Sprawl.jpeg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license." alt="" src="http://utilitarian-essays.com/Rio_Rancho_Sprawl.jpg" width="40%" height="40%" align="left" />
+
+Consider another example. Humans spray 3 billion tons of pesticides per year,<sup><a href="#Pimentel">[Pimentel]</a></sup> and whether or not we think this causes more wild-animal suffering than it may prevent, large-scale insecticide use is, to some extent, a <i>fait accompli</i> of modern society. If, hypothetically, scientists could develop ways to make these chemicals act more quickly or less painfully, enormous numbers of insects and larger organisms could be given slightly less agonizing deaths. (Note that I think pesticides may prevent net insect suffering, so encouraging humane insecticides is not equivalent to encouraging <i>less</i> pesticide use. Indeed, organic farms may contain high amounts of insect suffering.)<sup><a href="#Tomasik-insecticides">[Tomasik-insecticides]</a></sup>
+
+Human changes to the environment -- through agriculture, urbanization, deforestation, pollution, climate change, and so on -- have huge consequences, both negative and positive, for wild animals. For instance, <q>paving paradise [or, rather, hell?] and putting up a parking lot</q> prevents the existence of animals that would otherwise have lived there. Even where habitats are not destroyed, humans may change the composition of species living in them. If, say, an invasive species has a shorter lifespan and more non-surviving offspring than the native counterpart, the result would be more total suffering. Of course, the opposite could just as easily be the case.
+
+My position should not be mistaken as general support for environmental preservation; indeed, in some or even many cases, preventing existence may be the most humane option. Consequentialist vegetarians ought not find this line of reasoning unusual: The utilitarian argument against factory farming is precisely that, e.g., a broiler hen would be better off not existing than <a href="http://www.cok.net/magazine/16/02.php">suffering in cramped conditions for 45 days</a> before slaughter. Of course, even in the calculation of whether to adopt a vegetarian diet, the impacts on animals in the wild can be important and sometimes dominant over the direct effects on livestock themselves.<sup><a href="#MathenyChan">[MathenyChan]</a></sup>
+
+That said, before we become too gung ho about eliminating natural ecosystems, we should also remember that many other humans value wilderness, and it's good to avoid making enemies or tarnishing the suffering-reduction cause by pitting it too strongly opposed to other things people care about. In addition, many forms of environmental preservation, especially reducing climate change, may be important to the far future, by improving prospects for compromise among the major powers that develop artificial general intelligence.
+<h3 id="section6.2">A Research Agenda</h3>
+Wild-animal suffering deserves a serious research program, devoted to questions like the following:
+<ul>
+	<li>What animals are sentient? What reasonable subjective probabilities should we use for the sentience of reptiles, amphibians, fish, and various invertebrates?</li>
+	<li>What sorts of affective states do animals experience during the course of everyday life in the wild? How often do they feel hunger, cold, fear, happiness, satisfaction, boredom, and intense agony, and to what degrees? In the future, perhaps it will become possible to answer this question to high precision through wearable continuous measurement devices recording neural correlates of hedonic experience. But until then, we can also benefit greatly by applying standard tools for assessing animal welfare.<sup><a href="#Broom">[Broom]</a></sup></li>
+	<li>What is the overall balance of happiness versus suffering for various species? How does this depend on the animal's lifespan and whether it dies before maturity? Are certain species happier than others? Do certain types of ecosystems contain less average suffering than others? Which environmental-preservation efforts increase and which decrease aggregate animal welfare?</li>
+	<li>Are there long-term technologies that could eventually enable humans successfully to reduce wild-animal suffering in a serious way?</li>
+</ul>
+<h3 id="section6.3">Advanced Technologies?</h3>
+Humans presently lack the knowledge and technical ability to seriously <q>solve</q> the problem of wild-animal suffering without potentially disastrous consequences. However, this may not be the case in the future, as people develop a deeper understanding of ecology, welfare assessment, and neurobiology.
+
+If sentience is not rare in the universe, then the problem of wild-animal suffering extends beyond our planet. Considering how improbable it is that merely sentient life will evolve the type of intelligence that humans have,<sup><a href="#Drake">[Drake]</a></sup> we might expect that <i>most</i> of the sentient extraterrestrials in existence are at the level of the smallest, shortest-lived sentient creatures on earth. Thus -- again bordering on the realm of science fiction -- if humans ever do send robotic probes into space, there might be great benefit in disbursing their humane technologies to other planets that contain their own forms of wildlife. (One hopes that objections from deep ecologists within the community of extraterrestrial environmental ethics would be overcome.)
+<p style="text-align: center;"><img class="aligncenter  wp-image-423" title="'Side by side images en:User:Ittiz created to show what Mars might look like at various stages while being terraformed in vertical alignment.' Image by Daein Ballard. (from https://en.wikipedia.org/wiki/File:MarsTransitionV.jpg) This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. Subject to disclaimers." alt="" src="http://foundational-research.org/wp-content/uploads/2014/02/terraforming.png" width="96%" height="96%" /></p>
+
+<h3 id="section6.4">Inadvertently Multiplying Suffering</h3>
+While advanced future technologies could offer promise for helping wild animals, they also carry risks of multiplying the cruelty of the natural world. For instance, it's conceivable that humans could one day spread Earth-like environmental conditions to Mars in the process of <q>terraforming.</q><sup><a href="#Burton">[Burton]</a></sup> More speculatively, others have proposed <q>directed panspermia,</q> dispatching probes into the galaxy to seed other planets with biological material.<sup><a href="#Meot-NerMatloff">[Meot-NerMatloff]</a></sup> Post-human computer simulations may become sufficiently accurate that the wild-animal life they contain would consciously suffer. Already we see many <a href="https://en.wikipedia.org/wiki/Life_simulation_game#Biological_simulations">simulation models of natural selection</a>, and it's just a matter of time before these are augmented with AI capabilities such that the organisms involved become sentient and literally feel the pain of being injured and killed. Any of these possibilities would have prodigious ethical implications, and I do hope that before undertaking them, future humans consider seriously the consequences of such actions for all of the sentient creatures involved.
+<h2 id="section7">Activists Should Focus on Public Outreach</h2>
+What does all of this imply for the animal-advocacy movement? I think the best first step toward reducing wild-animal suffering that we can take now is to promote general concern for the issue. Causing more people to think and care about wild-animal suffering will hasten developments in wild-animal-welfare research and associated humane technologies, while at the same time helping to ensure that our advanced descendants think cautiously about actions that would create vastly more suffering organisms.
+
+I would welcome an organization dedicated to highlighting the wild-animal issue among biologists, animal-rights activists, policy makers, and the general public. Perhaps finding supporters within the animal-welfare community itself would be a good starting point: While some activists oppose all human intervention with the affairs of animals, occasionally even preferring that humans didn't exist, many people who
+feel humane sympathy for the suffering of members of other species should welcome efforts to prevent cruelty in the wild. Another potential source of
+supporters could be the Darwinist community, which recognizes what Richard Dawkins has called the <q>blind, pitiless indifference</q> of natural selection.<sup><a href="#Dawkins">[Dawkins, p. 133]</a></sup>
+
+Of course, even without the backing of an institute on wild-animal suffering, individuals can do much to raise the issue on their own, such as by
+<ul>
+	<li>posting on animal-rights forums and writing blog comments;</li>
+	<li>writing to influential philosophers, activists, animal-welfare scientists, and other thought leaders to ask for their opinions on wild-animal suffering (Are they aware of people working to address the issue? Would they consider talking about it explicitly in their own work?);</li>
+	<li>participating in animal-rights meetups and events and asking attendees what they think (Might they consider diverting some of their time toward outreach related to wild animals?);</li>
+	<li>writing conference papers, journal articles, or books on the topic, perhaps co-authored with ecologists, ethologists, or other scientists, to ensure that the work is not entirely armchair philosophy.</li>
+</ul>
+There may be a danger here of raising the wild-animal issue before the general public is ready. Indeed, the cruelty of nature is often used as a reductio by meat-eaters against consequentialist vegetarianism. Suggesting that ethical consideration for animals could force us to expend resources toward long-term research aimed at helping wildlife might turn off entirely people who would otherwise give some consideration to at least those animals that they affect through dietary choices.<sup><a href="#Greger">[Greger]</a></sup> How serious is this concern? My sentiment is that wild-animal suffering is so overwhelmingly important, even compared against the serious issue of factory farming, that the risk is worth it: If the animal-rights movement never moves beyond farm, laboratory, and companion animals, then setting the effort back is, relatively speaking, not such a great loss. The scale of brutality in nature is simply too vast to ignore, and humans have an obligation to exercise their cosmically rare position as both intelligent and empathetic creatures to reduce suffering in the wild as much as they can.
+
+<hr />
+
+<h2 id="section8">References</h2>
+<a id="Dawkins" name="Dawkins"></a>[Dawkins] Dawkins, Richard. <i>River Out of Eden</i>. New York: Basic Books, 1995.
+
+<a id="Bostrom-Alfred" name="Bostrom-Alfred"></a>[Bostrom-Alfred] Bostrom, Nick. <q><a href="http://www.nickbostrom.com/fable/retriever.html">Golden</a>.</q> 2004.
+
+<a name="Pinker"></a>[Pinker] Sailer, Steve. "<a href="http://pinker.wjh.harvard.edu/books/tbs/media_articles/2002_10_30_upi.html">Q&amp;A: Steven Pinker of 'Blank Slate.'</a>" <i>United Press International</i>. 30 Oct. 2002. Accessed 17 Jan. 2014.
+
+<a name="Attenborough"></a>[Attenborough] Rustin, Susanna. "<a href="http://www.theguardian.com/tv-and-radio/2011/oct/21/david-attenborough-frozen-planet-climate-change">David Attenborough: 'I'm an essential evil.'</a>" <i>The Guardian</i>. 21 Oct. 2011. Accessed 9 Jan. 2014.
+
+<a id="Mill" name="Mill"></a>[Mill] Mill, John Stuart. <q><a href="http://www.marxists.org/reference/archive/mill-john-stuart/1874/nature.htm">On Nature</a>.</q> 1874. In <i>Nature, The Utility of Religion and Theism</i>, Rationalist Press, 1904.
+
+<a id="exceptions" name="exceptions"></a>[exceptions] Examples include (1) Sapontzis, Steve F. <q>Predation.</q> <i>Ethics and Animals</i> 5.2 (1984): 27-38. (2) Naess, Arne. <q>Should We Try To Relieve Clear Cases of Extreme Suffering in Nature?</q> <i>Pan Ecology</i> 6.1 (1991). (3) Fink, Charles K. <q><a href="http://cla.calpoly.edu/bts/issue_05/05fink.htm">The Predation Argument</a>.</q> <i>Between the Species</i> 5 (2005).
+
+<a id="Tomasik-numbers" name="Tomasik-numbers"></a>[Tomasik-numbers] Tomasik, Brian. <q><a href="http://www.utilitarian-essays.com/number-of-wild-animals.html">How Many Wild Animals Are There?</a></q> <i>Essays on Reducing Suffering</i>. 2009.
+
+<a id="emotions" name="emotions"></a>[emotions] See, for instance, (1) Balcombe, Jonathan. <i>Pleasurable Kingdom: Animals and the Nature of Feeling Good</i>. Palgrave Macmillan, 2006. (2) Bekoff, Marc, ed. <i>The Smile of a Dolphin: Remarkable Accounts of Animal Emotions</i>. Discovery Books, 2000.
+
+<a id="McGowan" name="McGowan"></a>[McGowan] McGowan, Christopher. <i>The Raptor and the Lamb: Predators and Prey in the Living World</i>. New York: Henry Holt and Company, 1997.
+
+<a id="eaten-alive" name="eaten-alive"></a>[eaten-alive] <i><a href="http://eatenalive.questacon.edu.au/">Eaten Alive - The World of Predators</a></i>. Questacon on Tour.
+
+<a id="Kruuk" name="Kruuk"></a>[Kruuk] Kruuk, H. <i>The Spotted Hyena</i>. Chicago: University of Chicago Press, 1972.
+
+<a id="Flank" name="Flank"></a>[Flank] Flank, Lenny. <q>Live Prey vs. Prekill.</q> <i>The Snake: An Owner's Guide To A Happy Healthy Pet</i>. Howell Book House, 1997.
+
+<a id="Perry" name="Perry"></a>[Perry] Perry, Lacy. <q><a href="http://animals.howstuffworks.com/reptile/snake.htm">How Snakes Work: Feeding</a>.</q> <i>howstuffworks.com</i>.
+
+<a id="Sallinger" name="Sallinger"></a>[Sallinger] Sallinger, Bob. <q><a href="http://list.audubon.org/wa.exe?A2=ind0312&amp;L=audubon-pa&amp;P=78">Audubon Society Favors Keeping Cats Indoors</a>.</q> <i>The Oregonian</i>. 17 Nov. 2003.
+
+<a id="ElHagePeronnyGriebelBelzung" name="ElHagePeronnyGriebelBelzung"></a>[ElHagePeronnyGriebelBelzung] El Hage, Wissam, Sylvie Peronny, Guy Griebel, Catherine Belzung. <q>Impaired memory following predatory stress in mice is improved by fluoxetine.</q> <i>Progress in Neuro-Psychopharmacology &amp; Biological Psychiatry</i> 28 (2004) 123 - 128.
+
+<a id="ElHageGriebelBelzung" name="ElHageGriebelBelzung"></a>[ElHageGriebelBelzung] El Hage, Wissam, Guy Griebel, and Catherine Belzung. <q>Long-term impaired memory following predatory stress in mice.</q> <i>Physiology &amp; Behavior</i> 87 (2006) 45 - 50.
+
+<a id="Zoladz" name="Zoladz"></a>[Zoladz] Zoladz, Phillip R. <q><a href="http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1583&amp;context=etd">An ethologically relevant animal model of posttraumatic stress disorder: Physiological, pharmacological and behavioral sequelae in rats exposed to predator stress and social instability</a>.</q> Graduate dissertation, University of South Florida. 2008.
+
+<a id="Stam" name="Stam"></a>[Stam] Stam, Rianne. <q><a href="http://www.ncbi.nlm.nih.gov/pubmed/17350095">PTSD and stress sensitisation: A tale of brain and body Part 2: Animal models</a>.</q> <i>Neuroscience &amp; Biobehavioral Reviews</i> Volume 31, Issue 4 (2007) 558 - 584.
+
+<a id="Stauth" name="Stauth"></a>[Stauth] Stauth, David. <q><a href="http://www.kval.com/news/local/107047488.html">Sharks, wolves and the 'ecology of fear'</a>.</q> 10 Nov. 2010. Accessed 17 March 2013.
+
+<a id="Salmonellosis" name="Salmonellosis"></a>[Salmonellosis] <q><a href="http://www.michigan.gov/dnr/0,1607,7-153-10370_12150_12220-27268--,00.html">Salmonellosis</a>.</q> Michigan Department of Natural Resources.
+
+<a id="bats" name="bats"></a>[bats] <q>Continued Rain, Snowpack Leaves Animals Hungry.</q> <i>Associated Press</i> 23 Apr. 2006. CBS 13/UPN 31.
+
+<a id="Heidorn" name="Heidorn"></a>[Heidorn] Heidorn, Keith C. <q><a href="http://www.islandnet.com/~see/weather/elements/icestorm.htm">Ice Storms: Hazardous Beauty</a>.</q> <i>The Weather Doctor</i>. 12 Jan. 1998, revised Dec. 2001.
+
+<a id="UCLA" name="UCLA"></a>[UCLA] <i><a href="http://www.oprs.ucla.edu/animal/documents/pdf/training-manual.pdf">UCLA Animal Care and Use Training Manual</a></i>. UCLA Office for the Protection of Research Subjects.
+
+<a id="Nuffield" name="Nuffield"></a>[Nuffield] Nuffield Council on Bioethics. <i><a href="http://www.nuffieldbioethics.org/fileLibrary/pdf/RIA_Report_FINAL-opt.pdf">Ethics of Research Involving Animals</a></i>. May 2005.
+
+<a id="Wilcox" name="Wilcox"></a>[Wilcox] Wilcox, Christie. <q><a href="http://blogs.scientificamerican.com/guest-blog/2011/04/12/bambi-or-bessie-are-wild-animals-happier/">Bambi or Bessie: Are wild animals happier?</a></q> <i>Scientific American Blogs</i>. 12 April 2011. [For further discussion of this article, see <a href="http://felicifia.org/viewtopic.php?f=23&amp;t=417">this Felicifia thread</a>. I think Christie understates the brutality of life on factory farms, but her points about wild animals are well taken.]
+
+<a id="BourneEtAl" name="BourneEtAl"></a>[BourneEtAl] Bourne, Debra C., Penny Cusdin, and Suzanne I. Boardman, eds. <i><a href="http://www.wildlifeinformation.org/about/Vol_PainManagement.htm">Pain Management in Ruminants</a></i>. Wildlife Information Network. Mar. 2005.
+
+<a id="Cumming" name="Cumming"></a>[Cumming] Cumming, Jeffrey M. <q><a href="http://www.nadsdiptera.org/FFP/horn.htm">Horn fly <i>Haematobia irritans (L.)</i></a>.</q> <i>Diptera Associated with Livestock Dung</i>. North American Dipterists Society. 18 May 2006.
+
+<a id="BBC" name="BBC"></a>[BBC] <q><a href="http://news.bbc.co.uk/2/hi/science/nature/4472521.stm">Fierce Ants Build 'Torture Rack'</a>.</q> <i>BBC News</i> 23 April 2005.
+
+<a id="Gould" name="Gould"></a>[Gould] Gould, Stephen Jay. <q><a href="http://www.stephenjaygould.org/library/gould_nonmoral.html">Nonmoral Nature</a>.</q> <i>Hen's Teeth and Horse's Toes: Further Reflections in Natural History</i>. New York: W. W. Norton, 1994.
+
+<a id="insect-pain" name="insect-pain"></a>[insect-pain] See, for instance, the following review articles: (1) Smith, Jane A. <q><a href="http://dels.nas.edu/ilar_n/ilarjournal/33_1_2/V33_1_2Question.shtml">A Question of Pain in Invertebrates</a>.</q> <i>ILAR Journal</i> 33.1-2 (1991). (2) Tomasik, Brian. <q><a href="http://www.utilitarian-essays.com/insect-pain.html">Can Insects Feel Pain?</a></q> <i>Essays on Reducing Suffering</i>. 2009.
+
+<a id="Bostrom-qualia" name="Bostrom-qualia"></a>[Bostrom-qualia] Bostrom, Nick. <q><a href="http://www.nickbostrom.com/papers/experience.pdf">Quantity of Experience: Brain-Duplication and Degrees of Consciousness</a>.</q> <i>Minds and Machines</i> 16:2 (pp. 185-200), 2006.
+
+<a id="Williams" name="Williams"></a>[Williams] Williams, C. B. <i>Patterns in the Balance of Nature and Related Problems</i>. London: Academic Press, 1964.
+
+<a id="SchubelButman" name="SchubelButman"></a>[SchubelButman] Schubel, J. R. and Butman, C. A. <q>Keeping a Finger on the Pulse of Marine Biodiversity: How Healthy Is It?</q> Pages 84-103 of <i>Nature and Human Society: The Quest for a Sustainable World</i>. Washington, DC: National Academy Press, 1998.
+
+<a id="SolbrigSolbrig" name="SolbrigSolbrig"></a>[SolbrigSolbrig] Solbrig, O. T., and Solbrig, D. J. <i>Introduction to Population Biology and Evolution</i>. London: Addison-Wesley, 1979.
+
+<a id="Herbert" name="Herbert"></a>[Herbert] Herbert, Thomas J. <q><a href="http://www.bio.miami.edu/tom/courses/bil160/bil160goods/16_rKselection.html">r and K selection</a>.</q> Accessed 17 March 2013.
+
+<a id="Clarke" name="Clarke"></a>[Clarke] Clarke, Matthew and Ng, Yew-Kwang. <q>Population Dynamics and Animal Welfare: Issues Raised by the Culling of Kangaroos in Puckapunyal.</q> <i>Social Choice and Welfare</i> 27:2 (pp. 407-22), 2006.
+
+<a id="Ng" name="Ng"></a>[Ng] Ng, Yew-Kwang. <q>Towards Welfare Biology: Evolutionary Economics of Animal Consciousness and Suffering.</q> <i>Biology and Philosophy</i> 10.4 (pp. 255-85), 1995.
+
+<a id="Sagoff" name="Sagoff"></a>[Sagoff] Sagoff, Mark. <q>Animal liberation and environmental ethics: Bad marriage, quick divorce.</q> <i>Osgoode Hall Law Journal</i> 22, p. 297 (1984).
+
+<a id="Hapgood" name="Hapgood"></a>[Hapgood] Hapgood, Fred. <i>Why males exist: an inquiry into the evolution of sex</i>. Morrow (1979).
+
+<a id="EFSA" name="EFSA"></a>[EFSA] Animal and Welfare Scientific (AHAW) Panel. <q><a href="http://www.efsa.europa.eu/en/efsajournal/doc/292.pdf">Aspects of the biology and welfare of animals used for experimental and other scientific purposes</a>.</q> <i>EFSA Journal</i> 292, 1-136 (2005).
+
+<a id="DoodyPaull" name="DoodyPaull"></a>[DoodyPaull] Doody, J. Sean and Paull, Phillip. <q>Hitting the Ground Running: Environmentally Cued Hatching in a Lizard.</q> <i>Copeia</i>: March 2013, Vol. 2013, No. 1, pp. 160-165.
+
+<a id="KahnemanSugden" name="KahnemanSugden"></a>[KahnemanSugden] Kahneman, Daniel and Sugden, Robert. <q><a href="http://ideas.repec.org/a/kap/enreec/v32y2005i1p161-181.html">Experienced Utility as a Standard of Policy Evaluation</a>.</q> Environmental &amp; Resource Economics 32: 161–81 (2005).
+
+<a id="MitchellThompson" name="MitchellThompson"></a>[MitchellThompson] Mitchell, T. and Thompson, L. (1994). <q>A Theory of Temporal Adjustments of the Evaluation of Events: Rosy Prospection and Rosy Retrospection.</q> In C. Stubbart, J. Porac, and J. Meindl, eds., <i>Advances in Managerial Cognition and Organizational Information-Processing</i>, 5 (pp. 85-114). Greenwich, CT: JAI press.
+
+<a id="Singer" name="Singer"></a>[Singer] Singer, Peter. <q><a href="http://www.nybooks.com/articles/9822">Food for Thought</a>.</q> [Reply to a letter by David Rosinger.] <i>New York Review of Books</i> 20.10 (1973).
+
+<a id="Everett" name="Everett"></a>[Everett] Everett, Jennifer. <q>Environmental Ethics, Animal Welfarism, and the Problem of Predation: A Bambi Lover's Respect for Nature.</q> <i>Ethics and the Environment</i> 6.1 (2001): 42-67.
+
+<a id="Cowen" name="Cowen"></a>[Cowen] Cowen, Tyler. <q><a href="http://www.gmu.edu/centers/publicchoice/faculty%20pages/Tyler/police.pdf">Policing Nature</a>.</q> 19 May 2001.
+
+<a id="Pimentel" name="Pimentel"></a>[Pimentel] Pimentel, David. <q><a href="http://www.springerlink.com/content/k07218223r772080/">Pesticides and Pest Control</a>.</q> In Peshin, Rajinder and Dhawan, Ashok K., eds. <i>Integrated Pest Management: Innovation-Development Process</i>. Netherlands: Springer, 2009.
+
+<a id="Tomasik-insecticides" name="Tomasik-insecticides"></a>[Tomasik-insecticides] Tomasik, Brian. <q><a href="http://www.utilitarian-essays.com/humane-insecticides.html">Humane Insecticides: A Cost-Effectiveness Calculation</a>.</q> <i>Essays on Reducing Suffering</i>. 2009.
+
+<a id="MathenyChan" name="MathenyChan"></a>[MathenyChan] Matheny, Gaverick and Chan, Kai M. A. <q><a href="http://www.qalys.org/animal-welfare.pdf">Human Diets and Animal Welfare: The Illogic of the Larder</a>.</q> <i>Journal of Agricultural and Environmental Ethics</i>, 18:6 (pp. 579–94), 2005.
+
+<a id="Broom" name="Broom"></a>[Broom] Broom, D. M. <q><a href="http://jas.fass.org/cgi/reprint/69/10/4167.pdf">Animal Welfare: Concepts and Measurement</a></q> <i>Journal of Animal Science</i>, 69:10 (pp. 4167-4175), 1991.
+
+<a id="Drake" name="Drake"></a>[Drake] Estimates of the fraction of planets with life that go on to produce intelligence can be found in the literature on the <a href="http://en.wikipedia.org/wiki/Drake_equation">Drake equation</a>.
+
+<a id="Burton" name="Burton"></a>[Burton] Burton, Kathleen. <q><a href="http://www.nasa.gov/centers/ames/news/releases/2004/04_22AR.html">NASA Presents Star-Studded Mars Debate</a>.</q> 25 Mar. 2004.
+
+<a id="Meot-NerMatloff" name="Meot-NerMatloff"></a>[Meot-NerMatloff] Meot-Ner, M. and Matloff, G. L. <q><a href="http://adsabs.harvard.edu/abs/1979JBIS...32..419M">Directed Panspermia: A Technical and Ethical Evaluation of Seeding the Universe</a>.</q> <i>Journal of the British Interplanetary Society</i> 32 (pp. 419-23), 1979.
+
+<a id="Greger" name="Greger"></a>[Greger] Greger, Michael. <q><a href="http://jemdude.blogspot.com/2007/12/why-honey-is-vegan.html">Why Honey <i>Is</i> Vegan</a>.</q> <i>Satya</i> Sept. 2005.
+
+<center>
+<img title="'A Mongolian gazelle that has died of drought, due to the third straight year of 'dzud' or heavy winter drought and freezing temperatures.' Image by Mark Heard from Calgary, Alberta, Canada. (from https://en.wikipedia.org/wiki/File:Mongolian_Gazelle_dead_of_drought.jpg) This file is licensed under the Creative Commons Attribution 2.0 Generic license." alt="" src="http://utilitarian-essays.com/Mongolian_Gazelle_dead_of_drought.jpg" width="40%" height="40%" align="center" /></center>&nbsp;
+<p style="text-align: center;"><i>This essay was originally published on "<a href="http://www.utilitarian-essays.com/">Essays on Reducing Suffering</a>."</i></p>
