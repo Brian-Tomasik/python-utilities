@@ -14,7 +14,7 @@ import sys
 import os
 
 def run():
-    input_folder = sys.argv[1]  # input WordPress site-download folder (without any ending "/" ; has to be in same folder as the .py program
+    input_folder = sys.argv[1]  # input WordPress site-download folder (without any ending "/"); has to be in same folder as the .py program
     all_HTML_files = []
 
     print "Getting a list of all HTML files...\n"
