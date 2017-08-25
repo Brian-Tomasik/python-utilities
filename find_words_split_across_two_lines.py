@@ -20,7 +20,8 @@ python find_words_split_across_two_lines.py "username,password,ssn number"
 
 This program only searches for terms split across lines, so it won't find
 terms in the middle of lines. For that you should still use grep as a complement
-to this program. Following is the grep command I use:
+to this program. Following is the grep command I use to search the current 
+directory (which is the "." last parameter) and all its subdirectories recursively:
 
 grep -rioEn ".{0,20}mysearchstring.{0,20}" .
 """
