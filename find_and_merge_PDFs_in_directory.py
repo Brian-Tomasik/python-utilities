@@ -9,7 +9,7 @@ This script requires PyPDF2. You can install it with the command:
   sudo pip install PyPDF2
 
 Sample usage: To merge all PDFs in mywebsitedirectory/ into 5 PDF files, run:
-  python merge_PDFs.py mywebsitedirectory 5
+  python find_and_merge_PDFs_in_directory.py mywebsitedirectory 5
 """
 
 import sys
