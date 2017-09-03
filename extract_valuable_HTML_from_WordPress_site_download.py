@@ -36,7 +36,10 @@ def run(also_include_txt_files=True):
     print "\nDone."
 
 def is_HTML_file_and_not_a_redundant_blog_comments_file(filename, also_include_txt_files):
-    if get_file_extension(filename) in ["html", "htm", "txt"] and "replytocom" not in filename:
+    if also_include_txt_files:
+        if get_file_extension(filename) == "txt":
+            return True
+    if get_file_extension(filename) in ["html", "htm"] and "replytocom" not in filename:
         return True
     else:
         return False
