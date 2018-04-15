@@ -63,7 +63,7 @@ def get_urls_list(urls_list_filename):
 
 def download_urls_to_check(urls_to_check, destination_dir):
     seconds_between_downloads = STARTING_SECONDS_BETWEEN_DOWNLOADS
-    urllib.URLopener.version = 'Mozilla/5.0' # Some sites block downloads without a User-Agent like this.
+    urllib.URLopener.version = 'Firefox/2.0.0.11' # Some sites block downloads without a User-Agent like this.
     for url in urls_to_check:
         filename_for_this_web_page = create_filename_from_url(url)
         destination_filename_including_path = os.path.join(destination_dir, filename_for_this_web_page)
@@ -112,7 +112,8 @@ def line_includes_dynamic_WordPress_stuff(line):
 
 def create_filename_from_url(url):
     """Create a simplified file name without special url characters to which to save the HTML, PDF, or other file."""
-    return re.sub('[^\w]', '', url)
+    url_before_extension_if_any, extension_if_any = os.path.splitext(url)
+    return re.sub('[^\w]', '', url_before_extension_if_any) + extension_if_any
 
 def write_timestamp_file(dir):
     timestamp_file_path = os.path.join(dir, "timestamp_for_this_download.txt")
